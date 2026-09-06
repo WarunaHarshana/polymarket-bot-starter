@@ -1,0 +1,9 @@
+python-dotenv
+requests
+aiohttp
+websockets
+pydantic
+pytest
+pytest-asyncio
+py-clob-client>=0.34.6
+web3
